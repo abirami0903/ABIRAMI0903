@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, I'm Abirami Meenakshi 👋
 
-<!--
-**abirami0903/ABIRAMI0903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc Data Analytics Graduate  
+📊 Aspiring Data Analyst  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am passionate about transforming raw data into meaningful insights.  
+I have experience in data analysis, visualization, and machine learning projects.
+
+Along with my technical background, I have managed business sales and inventory data using Excel, helping improve decision-making processes.
+
+---
+
+## 🛠 Skills
+
+- MS Excel  
+- SQL  
+- Python  
+- Power BI  
+- Data Cleaning  
+- Data Visualization  
+
+
+## 📂 Projects
+
+🔹 Abnormal Event Detection using Spatio-Temporal Autoencoder  
+🔹 Food Wastage Management Web Application  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/abirami-meenakshi-419350226  
+- Email: abiramimeenakshi03@gmail.com
